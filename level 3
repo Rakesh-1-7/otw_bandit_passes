@@ -1,0 +1,5 @@
+ls
+cd inhere/
+ls
+ls -al
+cat .hidden
