@@ -1,0 +1,6 @@
+
+file ./-*
+
+find . -type f -exec file {} + | grep ASCII
+
+cat ./-file07
